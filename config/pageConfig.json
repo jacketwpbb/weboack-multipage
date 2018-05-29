@@ -1,0 +1,25 @@
+{
+    "current": "loan_pc",
+    "pages": [
+        {
+            "dirName": "zhitou",
+            "author": "grenade"
+        },
+        {
+            "dirName": "formSubmit",
+            "author": "grenade"
+        },
+        {
+            "dirName": "pc_app",
+            "author": "grenade"
+        },
+        {
+            "dirName": "getmap",
+            "author": "grenade"
+        },
+        {
+            "dirName": "loan_pc",
+            "author": "grenade"
+        }
+    ]
+}
